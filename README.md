@@ -1,8 +1,8 @@
 # My Burger
 
 ## Technologies:
-React.js
-React-router to handle routing
-Redux for state management
-Firebase to store and fetch data
-Axios for API calls 
+1- React.js
+2- React-router to handle routing
+3- Redux for state management
+4- Firebase to store and fetch data
+5- Axios for API calls 
